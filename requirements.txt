@@ -1,0 +1,6 @@
+ollama==0.6.3
+openai==2.2.0
+pydantic==2.10.6
+python-dotenv
+numpy==2.2.6
+pandas
