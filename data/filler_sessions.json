@@ -1,0 +1,1002 @@
+[
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about a statistics lecture.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I tried a new coffee shop near campus.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I walked my dog in the rain.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went camping with my scout troop.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a museum and saw dinosaur fossils.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went swimming in the lake.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My professor recommended Zotero for managing citations to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning guitar with flashcards.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning chemistry with a study group.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I walked my dog around the lake.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I did laundry at the laundromat.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a birthday party at a bowling alley.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I adopted a plant that needs very little water.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I visited my grandparents and helped in their garden.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I visited my grandparents and looked at old photos.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went fishing at the pier.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I visited my grandparents for Sunday lunch.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I finished my taxes and went to a concert.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I cooked dinner using my grandma's recipe.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I did yoga in the park.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went for a hike near the mountains.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My dad recommended a cordless drill to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My aunt recommended a gardening book to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the gym and tried a spin class.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I tried a new coffee shop downtown.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went camping by the river.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I painted my room with my roommate.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I studied for two exams and took a long walk on Sunday.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my grocery list.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A coworker recommended Spotify's focus playlists to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I visited my parents and cleaned out my closet.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went fishing with my dad.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about the French Revolution.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I helped a friend move across town.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went for a hike with my dog.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a museum about natural history.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the dentist and had no cavities.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I cleaned the apartment and visited a museum.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I rearranged my furniture to make more space.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning chemistry with Duolingo.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I played basketball at the park.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the beach on a windy day.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a wedding in a vineyard.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I baked cookies for a bake sale.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I finished a big project at work and went to a friend's barbecue.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I got a haircut at a new barber.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I planted tomatoes in pots on the balcony.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched a soccer game at a sports bar.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I planted tomatoes with my neighbor.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a wedding for my cousin.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went for a hike on the river trail.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I tried a new coffee shop by the train station.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a concert for a local jazz band.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning photography with flashcards.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning photography with Khan Academy.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I played basketball in a pickup game.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a farmers market early on Saturday.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about a chemistry lab.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about cell division.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went grocery shopping at the farmers market.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My roommate recommended a meal kit service to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my car's maintenance schedule.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about the novel I'm reading.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My manager recommended Trello for team projects to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I made breakfast with pancakes and eggs.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about photosynthesis.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I walked my dog for an hour.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a flea market with my aunt.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I started a new workout routine and caught up on sleep.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I worked on a group project and relaxed at the park.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My roommate recommended a pair of noise-cancelling headphones to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I got a haircut that's much shorter.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I painted my room a light blue.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning guitar with Duolingo.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I repaired a leaky faucet without calling a plumber.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I cooked dinner with fresh vegetables.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my team meeting.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I made breakfast before sunrise.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I cooked every night and saved some money.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My sister recommended a yoga app to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A classmate recommended Grammarly for writing to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I helped a friend move and carried a lot of boxes.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched the sunset at the beach.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about a biology lecture.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my presentation.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A classmate recommended Anki for flashcards to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning world history with my textbook.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the gym with a friend.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I did laundry and lost a sock.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my workout plan.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went fishing but didn't catch anything.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning chemistry with Coursera.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched a movie with my sister.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the dentist early this morning.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went swimming at the community pool.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went grocery shopping and found cheap avocados.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went swimming early in the morning.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched the sunset from the hill.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about a job interview.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I fixed my bike after the chain came off.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I presented at a meeting and went hiking.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A friend recommended a ramen place downtown to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I played basketball with my cousins.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I helped my sister move and watched a basketball game.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I fixed my bike with a friend's help.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I did yoga with an online video.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went grocery shopping late at night.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning guitar with a podcast.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning Spanish with Coursera.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I had a picnic with friends.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I had three classes and went to a trivia night.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my trip to Chicago.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I repaired a leaky faucet with a new washer.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A friend recommended a budgeting app called YNAB to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning calculus with a podcast.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I had a picnic by the lake.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning guitar with Coursera.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched a movie about space exploration.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I helped a friend move into a new apartment.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I rearranged my furniture in the living room.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I took my car in for service and tried a new recipe.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about the Roman empire.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I adopted a plant from a neighbor.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I did laundry and finally folded everything.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I organized my desk and called an old friend.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my budget.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A coworker recommended a standing desk to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched a movie at the old theater downtown.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I fixed my bike and replaced the brakes.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning Spanish with MIT OpenCourseWare.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A coworker recommended Notion for organizing my tasks to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I had dinner at a restaurant that serves ramen.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I planned a trip and painted a little.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I went to a career fair and baked bread.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I started a journal and went to yoga.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about a recipe I want to try.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I got a haircut before the wedding.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about a podcast episode.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning biology with MIT OpenCourseWare.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning Python with MIT OpenCourseWare.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the beach with my cousins.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched a soccer game with my brother.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went kayaking down the river.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I repaired a leaky faucet in the kitchen.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I cleaned my apartment and finally vacuumed the couch.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My cousin recommended a hiking app called AllTrails to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I stayed home because of the storm.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I planted tomatoes in my backyard.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My brother recommended VS Code for programming to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My sister recommended a mystery novel by Tana French to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a concert in the park.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I cleaned my apartment top to bottom.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went skating at the indoor rink.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My neighbor recommended a hardware store on Main Street to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I studied Spanish every day and met friends for dinner.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: My mom recommended a scented candle as a gift idea to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the dentist for a cleaning.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a farmers market and tried local honey.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a concert with coworkers.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went kayaking with a tour group.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched a soccer game in the stadium.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a birthday party with a magician.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I cleaned my apartment before my parents visited.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I finished reading a book and went to the farmers market.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning chemistry with Khan Academy.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a wedding and danced all night.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I baked cookies using brown butter.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went skating on the frozen pond.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning photography with a podcast.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I stayed home to rest after a long week.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a flea market and bought vintage records.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the gym before work.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I had a picnic in the botanical garden.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recommendation",
+  "text": "User: A friend recommended a board game called Catan to me.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I had dinner at a restaurant for my anniversary.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I had dinner at a restaurant with outdoor seating.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I rearranged my furniture after watching a video.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I watched the sunset from my roof.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning chemistry with a podcast.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about my study schedule.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I fixed my bike and went swimming twice.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I made breakfast for my family.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning economics with flashcards.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went kayaking on the lake.\nAssistant: Oh, nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I painted my room over the weekend.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a museum on free admission day.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a farmers market and bought peaches.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I baked cookies with my nephew.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "notes",
+  "text": "User: I wrote some notes about a book club meeting.\nAssistant: Got it.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "learning",
+  "text": "User: I've been learning calculus with YouTube tutorials.\nAssistant: Good to know.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went camping and saw a lot of stars.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a flea market and found an old lamp.\nAssistant: Glad to hear it.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to a birthday party for a coworker.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I adopted a plant for my desk.\nAssistant: Sounds like a good time.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went to the beach and built a sandcastle.\nAssistant: That sounds relaxing.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I did yoga before bed.\nAssistant: That sounds nice.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I cooked dinner for my roommates.\nAssistant: That sounds fun.\n"
+ },
+ {
+  "kind": "adjacent",
+  "topic": "recap",
+  "text": "User: This week I worked late most days and watched a few movies.\nAssistant: Sounds like a busy week.\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I went skating for the first time in years.\nAssistant: Nice!\n"
+ },
+ {
+  "kind": "everyday",
+  "topic": "everyday",
+  "text": "User: I stayed home and read in bed.\nAssistant: Glad to hear it.\n"
+ }
+]
